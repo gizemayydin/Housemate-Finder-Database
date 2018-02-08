@@ -1,0 +1,198 @@
+html {
+	height: 100%;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+.page {
+	margin: 75px auto;
+	max-width: 1170px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: grey;
+	padding-bottom: 50px;
+}
+
+.page h1 {
+	font-size: 2em;
+}
+
+#indexpage {
+	background: url("photo.jpg");
+	background-size: cover;
+}
+
+#about {
+	background: url("asd.jpg");
+	background-size: cover;
+}
+
+#home {
+	background: url("home.jpeg");
+	background-size: cover;
+}
+
+.jumbotron {
+	margin-top: 10%;
+	padding-top: 3%;
+	background-color:rgba(255,255,255,.8);
+	color: gray;
+}
+
+.jumbotron li{ 
+	list-style: none;
+	list-style-type: none;
+	list-style-image: none;
+	font-size: 1.3em;
+}
+
+.jumbotron h1{
+	font-size: 2em;
+	font-weight: 300;
+} 
+
+#sn1 {
+	font-weight: 400;
+}
+
+#sn3 {
+	font-weight: 100;
+	color: rgb(221, 37, 37);
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 5em;
+}
+
+h3 {
+	font-weight: 300;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#content {
+	color: white;
+	text-align: center;
+	padding-top: 25%;
+}
+
+#getstarted {
+	color: grey;
+}
+#getstarted>a {
+	color: grey;
+}
+
+.mid {
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	0px 8px 13px rgba(0,0,0,0.1),
+	0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.nav>li>a {
+	color: grey;
+}
+
+.navbar-default .navbar-brand {
+	color: #777;
+}
+
+#login-dp{
+	min-width: 250px;
+	padding: 14px 14px 0;
+	overflow:hidden;
+	background-color:rgba(255,255,255,.8);
+}
+
+#box {
+	background-color:rgba(255,255,255,.8);
+	border: 1px solid #e3e3e3;
+	padding-top: 30px;
+	color: grey;
+}
+
+#coll {
+	padding-top: 30px;
+	margin-left: 20%;
+}
+
+#coll li {
+	list-style: none;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#coll a {
+	text-decoration: none;
+	color: grey;
+}
+
+#coll a:hover {
+	color: #5e5e5e;
+}
+
+#categories {
+	display: none;
+}
+
+table, td, th {    
+	border: 1px solid rgb(221, 37, 37);
+	text-align: center;
+	padding: 10px;
+}
+
+th, td {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.exlink {
+	padding-top: 3px;
+	float: left;
+	clear: both;
+}
+
+.exlink a {
+	text-decoration: none;
+	color: rgb(221, 37, 37);
+}
+
+.exlink:hover {
+	font-weight: 500;
+}
+
+.forms {
+	width: 40%;
+	float: left;
+	margin-right: 60%;
+}
+
+.downgroup {
+	padding: 15px 0;
+}
+
+.prefid {
+	margin-top: 3%;
+	float: left;
+}
+
+#spbutton {
+	background: none;
+	border: none;
+	font-style: normal;
+}
+
+.pta {
+	font-size: 0.7em;
+}
+
+
+
+
+

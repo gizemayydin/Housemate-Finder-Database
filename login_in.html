@@ -1,0 +1,22 @@
+<?php
+require ('connector.php');
+?>
+
+<a href="sing_up.php" class = "mylinks"><i> Don't have an account? Sign up! </i></a><br>
+
+<form action="interload.php" method="post">
+
+  <div class="container">
+    <label><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit">Login</button>
+    <input type="checkbox" checked="checked"> Remember me
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+  </div>
+</form>
